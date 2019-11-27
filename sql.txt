@@ -1,0 +1,16 @@
+mysqli
+	koneksi
+	Select
+	create
+	read
+	update
+	delete 
+
+
+PDO
+	koneksi
+	Select
+	create
+	read
+	update
+	delete
