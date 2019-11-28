@@ -1,6 +1,11 @@
-def hello(nama,age):
-    return "Hello {} umur anda {} tahun".format(nama,age)
+def hello(name, age):
+    return "hello {} you are {} years old".format(name,age)
 
-sentence=hello("Mark",34)
+print(hello("Reski",34))
 
-print(sentence)
+def penjumlahan (x,y):
+    return x+y
+
+jumlah=penjumlahan(4,6)
+
+print(jumlah)

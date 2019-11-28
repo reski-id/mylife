@@ -19,3 +19,9 @@ if(cuacacerah):
     print ("let's go main")
 else:
      print ("Cuaca tidak cerah")
+
+x=5
+if x<4:
+    print ("kecil dari 4")
+else:
+    print ("besar dari 4")
