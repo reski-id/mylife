@@ -1,0 +1,7 @@
+instalasi
+template
+crud
+pagination
+trick
+login
+rest api
