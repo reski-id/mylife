@@ -1,1 +1,13 @@
-photoshop
+make prototipe with photoshop
+change photoshop to html5 css3
+
+
+basic edit
+	change background color
+	make baground blur
+	delete item on photo
+	joining few picture
+
+make logo
+
+make banner
