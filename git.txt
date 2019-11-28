@@ -1,26 +1,18 @@
 git init
 
-
 git add .
-
 
 git commit -m "Commit Pertama"
 
-
 git pull
-
 
 git push
 
-
 git remote
-
 
 git status
 
-
 gitk
-
 
 git fetch
 
