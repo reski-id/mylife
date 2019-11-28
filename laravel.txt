@@ -1,1 +1,6 @@
-laravel.txt
+instalasi
+template
+crud
+pagination
+trick
+login
