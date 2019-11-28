@@ -11,4 +11,4 @@ love Computers and Stuft
 
 081268501104 
 
-lets code together
+let's code together
