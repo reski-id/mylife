@@ -21,4 +21,7 @@ git status
 
 gitk
 
+
 git fetch
+
+git log
