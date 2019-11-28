@@ -1,0 +1,6 @@
+instalasi
+template
+crud
+pagination
+trick
+login
