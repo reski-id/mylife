@@ -7,19 +7,31 @@ git commit -m "Commit Pertama"
 git pull
 
 git push
-
+	git push origin <branchname>
+	
 git remote
+	git remote add <name> <url>
+	git remote coworkers_repo git@bitbucket.org:coworker/coworkers_repo.git
+	git remote add john http://dev.example.com/john.git
+	git remote rm <name>
+	git remote rename <old-name> <new-name>
 
 git status
 
 gitk
 
 git fetch
+	git fetch --all
+	git fetch origin
 
 git log
 
 git branch
+	git branch -r
 
 git checkout
+	git checkout -b local_feature_branch
 
 git merge
+
+git reset
