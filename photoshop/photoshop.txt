@@ -4,12 +4,12 @@ change photoshop to html5 css3
 	converting/design with css3 and html5
 
 
-basic edit
+basic edit on picture
 	change background color
 	make baground blur
 	delete item on photo
 	joining few picture
 
-make logo
+make logo for website and company
 
-make banner
+make banner for website
