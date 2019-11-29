@@ -17,3 +17,9 @@ gitk
 git fetch
 
 git log
+
+git branch
+
+git checkout
+
+git merge
