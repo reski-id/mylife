@@ -11,7 +11,7 @@ love Computers and Stuft
 
 i dont know anything... but i love study and practice
 
-also please see my certified here
+also please check my certificate here
 
 https://drive.google.com/open?id=0B-DFpj-cD9lhdEhxU0RIQndtUVU
 
