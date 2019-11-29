@@ -1,5 +1,7 @@
 make prototipe with photoshop
 change photoshop to html5 css3
+	slicing
+	converting/design with css3 and html5
 
 
 basic edit
