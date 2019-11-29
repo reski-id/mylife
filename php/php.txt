@@ -1,0 +1,8 @@
+variabel
+input output
+operator
+if else
+loop for loop
+while loop
+function
+oop
