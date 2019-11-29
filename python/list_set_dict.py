@@ -4,10 +4,6 @@ cartoon=["Spongebob","Rick and Morty","Jhonny English","Tom and Jerry"]
 
 lt_belanjaan = ["kopi","susu","rice","lipstick","Buku"]
 
-# add more to list
-# insert
-# del
-# len
 print(lt_belanjaan[::])
 
 lt_belanjaan.insert(5,"SoftDrink")
