@@ -1,1 +1,55 @@
-golang here
+Variable Declarations
+Functions and Return Types
+Slices and For Loops
+OO Approach vs Go Approach
+Custom Type Declarations
+Receiver Functions
+Creating a New Deck
+Slice Range Syntax
+Multiple Return Values
+Byte Slices
+Deck to String
+Joining a Slice of Strings
+Saving Data to the Hard Drive
+Reading From the Hard Drive
+Error Handling
+Random Number Generation
+Testing With Go
+Writing Useful Tests
+Asserting Elements in a Slice
+Testing File IO
+
+Structs in Go
+Defining Structs
+Declaring Structs
+Updating Struct Values
+Embedding Structs
+Structs with Receiver Functions
+Pass By Value
+Structs with Pointers
+Pointer Operations
+Pointer Shortcut
+Gotchas With Pointers
+Reference vs Value Types
+
+What_s a Map_
+Manipulating Maps
+Iterating Over Maps
+Differences Between Maps and Structs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
