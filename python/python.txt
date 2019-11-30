@@ -4,14 +4,4 @@ Python
     3. If  Elif Elseif
     4. list Set Dictionary
     5. Function
-    6. OOP
-    7.
-    8.
-    9.
-
-    
-Djanggo
-
-
-
-Flask
+    6. OOP with python
