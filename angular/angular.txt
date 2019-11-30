@@ -1,0 +1,17 @@
+Understanding the Folder Structure
+Understanding Angular Components
+Adding our First Component
+Listening to Events
+Outputting Content
+Getting User Input
+Installing Angular Material
+Adding a Toolbar
+Outputting Posts
+Diving Into Structural Directives
+Creating Posts with Property _ Event Binding
+Creating a Post Model
+Adding Forms
+Getting Posts from Post-Create to Post-List
+Calling GET Post
+More About Observables
+Working on our Form
