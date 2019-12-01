@@ -1,17 +1,7 @@
-string = ""
-baris = 1
+x= int (input("Masukkan Nilai x :"))
 
-Sisi = int(input("Masukkan Jumlah angka Sisi  :"))
-
-# Looping Baris
-while baris <= Sisi:
-	kolom = baris
-
-	# # Looping Kolom
-	while kolom > 0:
-		string = string + " * "
-		kolom = kolom - 1
-		
-	string = string + "\n"
-	baris = baris + 1
-print (string)
+for i in range(x):
+     for j in range(i+1):
+        print('*', end='')
+     print()
+    
