@@ -2,7 +2,6 @@
 #### Numbers and more in Python! ####
 #####################################
 
-# We'll learn about the following topics:
 #
 #     1.) Types of Numbers in Python
 #     2.) Basic Arithmetic
@@ -28,18 +27,17 @@
 
 # Now let's start with some basic arithmetic.
 
-# Basic Arithmetic
-# Addition
+# Dasar Aritmatika
+# Penjumlahan
 2+1
 
-# Subtraction
+# Pengurangan
 2-1
 
-# Multiplication
+# Perkalian
 2*2
 
-
-# Division
+# Pembagian
 3/2
 
 # Powers
@@ -103,7 +101,7 @@ a
 #
 
 
-# Use object names to keep better track of what's going on in your code!
+# inisiasi
 penghasilan = 100
 
 tax_rate = 0.1
