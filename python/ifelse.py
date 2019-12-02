@@ -25,3 +25,9 @@ if x<4:
     print ("kecil dari 4")
 else:
     print ("besar dari 4")
+
+angka = int(input("Masukkan Angka :"))
+if angka % 2 is 0:
+    print("Bilangan Genap")
+else:
+    print("Bilangan Ganjil")
