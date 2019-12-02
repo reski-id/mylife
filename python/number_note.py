@@ -25,8 +25,6 @@
 # integers or simple float number types.
 
 
-# Now let's start with some basic arithmetic.
-
 # Dasar Aritmatika
 # Penjumlahan
 2+1
@@ -109,5 +107,5 @@ tax_rate = 0.1
 pajak = penghasilan*tax_rate
 
 # tampilkan Pajak !
-print("Rp.",penghasilan-pajak)
+print("Pajak :>",penghasilan-pajak)
 
