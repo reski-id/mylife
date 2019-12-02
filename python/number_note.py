@@ -102,12 +102,12 @@ a
 
 
 # inisiasi
-penghasilan = 100
+penghasilan = 6000000
 
 tax_rate = 0.1
 
 pajak = penghasilan*tax_rate
 
 # tampilkan Pajak !
-pajak
+print("Rp.",penghasilan-pajak)
 
