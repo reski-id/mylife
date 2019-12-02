@@ -2,7 +2,7 @@ age = 55
 
 name = "Dr Grigory House"
 
-#jika umur lebih dari 25 print lebih dari 25
+#jika umur lebih dari 18 bisa mendapatkan licence
 
 if(age>=18):
     print ("lebih dari 18 tahun")
