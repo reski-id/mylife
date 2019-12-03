@@ -107,5 +107,6 @@ tax_rate = 0.1
 pajak = penghasilan*tax_rate
 
 # tampilkan Pajak !
+print("penghasilan {} dan Tax Rate {}".format(penghasilan,tax_rate))
 print("Pajak :>",penghasilan-pajak)
 
