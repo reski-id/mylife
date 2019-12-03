@@ -1,6 +1,12 @@
 sql
 	ddl
 	dml
+	
+join
+	inner join
+	left join
+	right join
+	full join
 
 mysqli
 	koneksi
@@ -18,8 +24,3 @@ PDO
 	read
 	update
 	delete
-
-noqsl
-
-
-mongodb
