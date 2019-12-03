@@ -1,8 +1,9 @@
-instalasi
-MVC
-template
+Instalasi
+MVC Konsep
+templating
 crud
 pagination
 trick
 login
+plugin
 rest api
