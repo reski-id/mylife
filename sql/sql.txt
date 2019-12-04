@@ -9,6 +9,8 @@ join
 	full join
 	cross join
 
+view 
+
 mysqli
 	koneksi
 	Select
