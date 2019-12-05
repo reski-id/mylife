@@ -2,17 +2,17 @@ animal=["Duck","Chicken","Dog","Cow","Rat","Rabbit","Horse"]
 
 cartoon=["Spongebob","Rick and Morty","Jhonny English","Tom and Jerry"]
 
-lt_belanjaan = ["kopi","susu","rice","lipstick","Buku"]
+belanjaan = ["kopi","susu","rice","lipstick","Buku"]
 
-print(lt_belanjaan[::])
+print(belanjaan[::])
 
-lt_belanjaan.insert(5,"SoftDrink")
-lt_belanjaan.remove("Buku")
+belanjaan.insert(5,"SoftDrink")
+belanjaan.remove("Buku")
 
-for x in lt_belanjaan:
+for x in belanjaan:
     print(x)
 
-if "Buku" in lt_belanjaan:
+if "Buku" in belanjaan:
     print("Buku ada dalam Daftar list belanjaan")
 else:
     print("Buku tidak ada dalam list")

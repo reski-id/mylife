@@ -16,10 +16,10 @@ if(name=="Dr Grigory House"):
 else:
     print ("Hello ?")
 
-#jika cuaca cerah => ayo main
+#jika cuaca cerah => lets play
 cuacacerah= False
 if(cuacacerah):
-    print ("let's go main")
+    print ("let's play")
 else:
      print ("Cuaca tidak cerah")
 
