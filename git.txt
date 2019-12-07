@@ -44,6 +44,13 @@ git log
 
 git branch
 	git branch -r
+	git branch --list
+	git branch
+	git branch namaBranchBaru
+	git checkout namaBranchBaru
+	git checkout master
+	git branch -d namaBranchBaru
+	
 
 git checkout
 	git checkout -b local_feature_branch
