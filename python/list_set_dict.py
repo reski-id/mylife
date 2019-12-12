@@ -9,6 +9,9 @@ print(belanjaan[::])
 belanjaan.insert(5,"SoftDrink")
 belanjaan.remove("Buku")
 
+lst=[[1,2],[3,4]]
+print(sum(lst,[]))
+
 for x in belanjaan:
     print(x)
 
